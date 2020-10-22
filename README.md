@@ -1,4 +1,4 @@
-NOTE FOR THE VIDEO
+A NOTE FOR THE VIDEO:
 # [Webinar "How to win Business & Marketing Case" - UFLL & Young Marketers](https://www.youtube.com/watch?v=og7rok8Tja4&fbclid=IwAR1oRqKHIDPSkWMh5nmY6H3qYZcP3bKyJsqOWF5XNLjOtMklZiXwJpbD3NQ)
 click [here](https://www.youtube.com/watch?v=og7rok8Tja4&fbclid=IwAR1oRqKHIDPSkWMh5nmY6H3qYZcP3bKyJsqOWF5XNLjOtMklZiXwJpbD3NQ) to go to the video
 
