@@ -1,7 +1,7 @@
 # [Webinar "How to win Business & Marketing Case" - UFLL & Young Marketers](https://www.youtube.com/watch?v=og7rok8Tja4&fbclid=IwAR1oRqKHIDPSkWMh5nmY6H3qYZcP3bKyJsqOWF5XNLjOtMklZiXwJpbD3NQ)
 click [here](https://www.youtube.com/watch?v=og7rok8Tja4&fbclid=IwAR1oRqKHIDPSkWMh5nmY6H3qYZcP3bKyJsqOWF5XNLjOtMklZiXwJpbD3NQ) to go to the video
 ## [Tu duy big idea, brand ntn (0:16)](https://youtu.be/og7rok8Tja4?t=16)
-### Ogilvy big idea model (revised by tomorrow marketer) : cac anh chi tong hop tu nhieu cuon sach (0:17)
+### Ogilvy big idea model (revised by tomorrow marketer) : cac anh chi tong hop tu nhieu cuon sach
 ![](resources/ogilvybigideamodel.png)
 Big idea = (category driver , competitor uncovered space)=> (unique customer tension, brand communication idea & product usp)
 > Can brandstorm ra raw idea - sau do __wording__ lai cho creative
