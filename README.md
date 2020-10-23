@@ -1,6 +1,18 @@
 A NOTE FOR THE VIDEO:
 # [Webinar "How to win Business & Marketing Case" - UFLL & Young Marketers](https://www.youtube.com/watch?v=og7rok8Tja4&fbclid=IwAR1oRqKHIDPSkWMh5nmY6H3qYZcP3bKyJsqOWF5XNLjOtMklZiXwJpbD3NQ)
 click [here](https://www.youtube.com/watch?v=og7rok8Tja4&fbclid=IwAR1oRqKHIDPSkWMh5nmY6H3qYZcP3bKyJsqOWF5XNLjOtMklZiXwJpbD3NQ) to go to the video
+Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Tu duy big idea, brand ntn (0:16)](#tu-duy-big-idea-brand-ntn-016)
+        * [Ogilvy big idea model (revised by tomorrow marketer) : cac anh chi tong hop tu nhieu cuon sach](#ogilvy-big-idea-model-revised-by-tomorrow-marketer--cac-anh-chi-tong-hop-tu-nhieu-cuon-sach)
+        * [So do tu duy thong diep : brand - agency (2:26)](#so-do-tu-duy-thong-diep--brand---agency-226)
+* [Template: Question before creative development (5:55)](#template-question-before-creative-development-555)
+* [Chan dung mot nha vo dich ? Q&A with champions (10:00)](#chan-dung-mot-nha-vo-dich--qa-with-champions-1000)
+        * [Q: Team ufll da "tiep can" de bai nhu the nao (14:27)](#q-team-ufll-da-tiep-can-de-bai-nhu-the-nao-1427)
+        * [Q: Thay doi cuoc song the nao (19:01)](#q-thay-doi-cuoc-song-the-nao-1901)
+
+<!-- vim-markdown-toc -->
 
 ## [Tu duy big idea, brand ntn (0:16)](https://youtu.be/og7rok8Tja4?t=16)
 ### Ogilvy big idea model (revised by tomorrow marketer) : cac anh chi tong hop tu nhieu cuon sach
