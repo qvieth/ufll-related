@@ -75,16 +75,16 @@ __Judging criteria__
 </summary> 
 45% insight identification
 - What is the target audience we should choose to drive attention?
-- What is their current behavior or/and tension that we can uniquely address?
+- What is their current behavior or/and tension that we can uniquely address? <br>
 30% campaign idea
 - How can Seventh Generation be their safer choice? What is the provocative element that we can drive attention & talk-ability?
 - What idea can be translated to different sub-target audience groups?
-- How can we deliver the safer choice in an appealing & impressive way?
+- How can we deliver the safer choice in an appealing & impressive way? <br>
 25% deployment plan
 - How to deploy the campaign idea via digital touch points (Video platform, Social, Online PR/News, Partnership, Search...]?
 - How can we drive precision approach for different sub-target audience groups?
 - How to leverage data in execution and ensure to target them across funnels [from upper to lower]?
-- When Video Ads, Display Ads, Social... become normal, how can we execute differently?
+- When Video Ads, Display Ads, Social... become normal, how can we execute differently? <br>
 </details>
 <details>
 <summary> 
