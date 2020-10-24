@@ -68,8 +68,12 @@ What solutions can we use to build & differentiate Seventh Generation as a "Safe
 Deliverables: A digital-led marketing campaign to addresses the given challenge
 KPIs: 100% awareness of Target Audience [LSM 10+, living in key cities], 10% conversion rate to trial stage
 *Things to bear in mind: Our Brand Personality is progressive, genuinely optimistic, a determined advocate, WITHOUT taking ourselves too seriously & attacking other brands.
+</details>
 
+<details>
+<summary> 
 # Judging criteria
+</summary> 
 45% insight identification
 - What is the target audience we should choose to drive attention?
 - What is their current behavior or/and tension that we can uniquely address?
