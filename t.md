@@ -1,4 +1,4 @@
-Seventh generation analysis
+2019 challenge - Seventh generation 
 <details>
 <summary> 
 __1. OurBrand__
