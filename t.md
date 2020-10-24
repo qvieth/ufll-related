@@ -1,5 +1,4 @@
 Seventh generation analysis
-Table of contents
 <details>
 <summary> 
 __1. OurBrand__
