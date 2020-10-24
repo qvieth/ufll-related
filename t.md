@@ -71,7 +71,7 @@ KPIs: 100% awareness of Target Audience [LSM 10+, living in key cities], 10% con
 
 <details>
 <summary> 
-# Judging criteria
+__Judging criteria__
 </summary> 
 45% insight identification
 - What is the target audience we should choose to drive attention?
