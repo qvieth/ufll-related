@@ -51,26 +51,26 @@ Making products from material that have been used before & designing products th
 __5. OurStory__
 </summary> 
 We're not just a __Natural Brand__, we are a __Safer Brand__.
-We're not just a brand that is 97% plant-based. We are also all about "safety". Safety is at the heart of our mix, of what we put inside every single product introduced to the customers.
+<br>We're not just a brand that is 97% plant-based. We are also all about "safety". Safety is at the heart of our mix, of what we put inside every single product introduced to the customers.
 Safe for the Human Health;
 Safe for the Planet. <br>
 </details>
 <details>
 <summary> 
-YourChallenge 
+__YourChallenge__ 
 </summary>
 TheBackground <br>
 1. Natural Market is getting cluttered & confusing
 With the growth of nature and health-concious trend, an overwhelming number of brands and products are claiming and talking about "nature". That crowd & clutter make __Seventh Generation__ proposition not as strong as it should be.
 2. Conventional Brands become dominant thanks to media power <br>
-Conventional Brands have media advantages with mass TV Investment, combining with Cross-screen media approach. Meanwhile, __Seventh Generation__ is using Digital-led &Targeted/Precision media approach only.
+Conventional Brands have media advantages with mass TV Investment, combining with Cross-screen media approach. Meanwhile, __Seventh Generation__ is using Digital-led &Targeted/Precision media approach only. <br>
 3. Targeted & seletive distribution model <br>
 As super premium product, __Seventh Generation__ is currently distributing on E-commerce and Modern Trade Channel at 3 key cities: HCM, Hanoi,Haiphong.
-## How can seventh generation stand out from the crowd?
-What solutions can we use to build & differentiate Seventh Generation as a "Safer Homecare Solution" or [Safer Choice], given the clutter & misleading nature-claimed market?
-Deliverables: A digital-led marketing campaign to addresses the given challenge
-KPIs: 100% awareness of Target Audience [LSM 10+, living in key cities], 10% conversion rate to trial stage
-*Things to bear in mind: Our Brand Personality is progressive, genuinely optimistic, a determined advocate, WITHOUT taking ourselves too seriously & attacking other brands.
+<br> How can seventh generation stand out from the crowd?
+<br>What solutions can we use to build & differentiate Seventh Generation as a "Safer Homecare Solution" or [Safer Choice], given the clutter & misleading nature-claimed market?
+<br>Deliverables: A digital-led marketing campaign to addresses the given challenge
+<br>KPIs: 100% awareness of Target Audience [LSM 10+, living in key cities], 10% conversion rate to trial stage
+<br>*Things to bear in mind: Our Brand Personality is progressive, genuinely optimistic, a determined advocate, WITHOUT taking ourselves too seriously & attacking other brands.
 </details>
 
 <details>
